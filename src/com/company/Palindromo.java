@@ -23,7 +23,7 @@ public class Palindromo extends JFrame {
 
 
 
-        this.setTitle("BMI Calculator");
+        this.setTitle("Palindromes");
         this.setSize(250,100);
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setLocationRelativeTo(null);
